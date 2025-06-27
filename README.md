@@ -1,1 +1,3 @@
-# artifact-test
+# Demo artifact
+
+This is a test.
